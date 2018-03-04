@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+<<<<<<< HEAD
 import Sidebar from 'react-sidebar';
 import logo from './logo.svg';
 import './App.css';
